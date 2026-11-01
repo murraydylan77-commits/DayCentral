@@ -99,4 +99,4 @@ If this policy changes, we'll update it here and change the effective date above
 
 ## Contact
 
-Questions about this policy or your privacy? Contact us at **[your support email]**.
+Questions about this policy or your privacy? Contact us at **murray.dylan77@hotmail.com**.
