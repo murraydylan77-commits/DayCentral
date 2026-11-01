@@ -1,8 +1,8 @@
 # DayCentral Privacy Policy
 
 **Effective date:** November 1, 2026
-**Developer:** [Your name or company]
-**Contact:** [your support email]
+**Developer:** Dylan Murray
+**Contact:** murray.dylan77@hotmail.com
 
 DayCentral is a daily planning app for iPhone, iPad, and Mac. It was built to keep your information on your device. This policy explains what the app accesses, where that information is stored, and the choices you have.
 
